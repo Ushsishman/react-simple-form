@@ -1,8 +1,11 @@
-# React + Vite
+# Overview
+>
+This is simple form made with react + tailwindcss + vitejs.Additionally i used react modal.I will explain each technology below
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React
+>
+- useState hook
+- Conditional rendering
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Styling
+- Tailwindcss for styling + react modal for modals
